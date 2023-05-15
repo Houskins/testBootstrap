@@ -10,7 +10,7 @@ body {
 
 /* Header/logo Title */
 .header {
-  padding: 110px;
+  padding: 11px;
   text-align: center;
   background-image: url("./images/landscape.jpg");
 }
@@ -32,7 +32,7 @@ body {
 .navbar a {
   float: left;
   display: block;
-  color: white;
+  color: rgba(184, 10, 10, 0.829);
   text-align: center;
   padding: 14px 20px;
   text-decoration: none;
@@ -83,8 +83,8 @@ body {
 
 /* Center the text */
 .footer p {
-  text-align: center;
-  font-size: 14px;
+  text-align: left;
+  font-size: 60px;
   color: #d8d8d8;
 }
 
@@ -99,7 +99,7 @@ body {
 /* Styles for the post heading */
 .post h2 {
   margin-top: 0;
-  margin-bottom: 10px;
+  margin-bottom: 60px;
 }
 
 /* Styles for the post image */
